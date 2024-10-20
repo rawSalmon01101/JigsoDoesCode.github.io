@@ -1,0 +1,12 @@
+.body{
+    background-color: white;
+}
+div.TrendingProducts{
+    overflow: auto;
+    white-space: nowrap;
+    background-color: rgb(237, 232, 243);
+}
+div.TrendingProducts:hover{
+    cursor:grab;
+}
+
